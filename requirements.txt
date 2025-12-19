@@ -1,0 +1,9 @@
+streamlit 
+torch 
+torchvision 
+opencv-python 
+pydicom 
+numpy
+torchmetrics
+bbox_visualizer
+tqdm
